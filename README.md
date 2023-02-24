@@ -3,6 +3,6 @@
 
 | No | Title | Question Link | Code Link |
 | - | - | - | - |
-| 7 | Reverse Integer | [<img src="https://rb.gy/6a5gzl">](https://leetcode.com/problems/reverse-integer/description/) | [C++](./code/7_reverse_integer.cpp) |
+| 7 | Reverse Integer | [!Leetcode](https://rb.gy/6a5gzl)](https://leetcode.com/problems/reverse-integer/description/) | [C++](./code/7_reverse_integer.cpp) |
 
  
