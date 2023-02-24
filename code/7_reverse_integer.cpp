@@ -3,6 +3,8 @@
 // Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
 // Level: Medium
+// Time Complexity:  O(log 10 (x))
+// Space Complexity: O(1)
 
 class Solution {
 public:
